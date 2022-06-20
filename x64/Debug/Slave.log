@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Administrator\source\repos\Slave\Source.cpp(23,51): warning C4311: 'type cast': pointer truncation from 'const char *' to 'ULONG'
+C:\Users\Administrator\source\repos\Slave\Source.cpp(23,51): warning C4302: 'type cast': truncation from 'const char *' to 'ULONG'
+  Slave.vcxproj -> C:\Users\Administrator\source\repos\Slave\x64\Debug\Slave.exe
